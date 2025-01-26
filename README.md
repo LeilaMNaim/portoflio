@@ -13,12 +13,14 @@ Univeristy College London
 #### PoliSci Causal Analysis 
  [Political Science Causal Analysis Essay 1](https://github.com/LeilaMNaim/github.io/blob/main/PT%20A%20AND%20B%20POLS%20Essay%202023%20FINAL%20.docx)
  
-[Political Science Causal Analysis Essay 2]
-(https://github.com/LeilaMNaim/github.io/blob/main/POLS%202023%20SUMMER%20FINAL%20%20(1).docx) 
+[Political Science Causal Analysis Essay 2](https://github.com/LeilaMNaim/github.io/blob/main/POLS%202023%20SUMMER%20FINAL%20%20(1).docx) 
 
 #### Cartography Data Visualization with QGIS
 [Malaria on the Map](https://github.com/LeilaMNaim/github.io/blob/main/CARTOGRAPHY%20FINAL%20SUBMISSION%20.pdf)
-[
+
+[Cartography Blog](https://github.com/LeilaMNaim/github.io/blob/main/MY%20MAPS_CARTOGRAPHY.pdf)
+
+
 
 
 
