@@ -10,6 +10,9 @@ Univeristy College London
 
 ### Projects  
 
+#### Tuberculosis in Peru Data Analysis
+[Dissertation Final](https://github.com/LeilaMNaim/github.io/blob/main/DISSERTATION%20FINAL%20%20.docx)
+
 #### PoliSci Causal Analysis 
  [Political Science Causal Analysis Essay 1](https://github.com/LeilaMNaim/github.io/blob/main/PT%20A%20AND%20B%20POLS%20Essay%202023%20FINAL%20.docx)
  
