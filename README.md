@@ -10,7 +10,9 @@ I'm Leila, I'm a data scientist who's passionate about epidemiology and infectio
 
 [USAID End Malaria ITN Efficacy, Morbidity and Mortality Analysis](https://github.com/LeilaMNaim/github.io/blob/main/DRC%20ANALYSIS-%20Mortality%20and%20Morbidity%20by%20ITN%20Type.xlsx)
 
-[British National Surveys of Sexual Attitudes and Lifestyle Report
+[British National Surveys of Sexual Attitudes and Lifestyle Analysis](https://github.com/LeilaMNaim/github.io/blob/main/POLS%20EXAM.pdf)
+
+
 #### PoliSci Causal Analysis with R
  [Political Science Causal Analysis Essay 1](https://github.com/LeilaMNaim/github.io/blob/main/PT%20A%20AND%20B%20POLS%20Essay%202023%20FINAL%20.docx)
  
