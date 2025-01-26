@@ -18,6 +18,8 @@ I'm Leila, I'm a data scientist who's passionate about epidemiology and infectio
  
 [Political Science Causal Analysis Essay 2](https://github.com/LeilaMNaim/github.io/blob/main/POLS%202023%20SUMMER%20FINAL%20%20(1).docx) 
 
+[Created a Geographic Weighted Regression Function](https://github.com/LeilaMNaim/github.io/blob/main/GWR%20FUNCTION%20REPORT%20(1)%20(4).pdf)
+
 
 #### Cartography and Data Visualization with QGIS
 [Malaria on the Map](https://github.com/LeilaMNaim/github.io/blob/main/CARTOGRAPHY%20FINAL%20SUBMISSION%20.pdf)
