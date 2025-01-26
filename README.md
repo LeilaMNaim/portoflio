@@ -9,3 +9,5 @@ Univeristy College London
 ### Work Experience 
 
 ### Projects  
+
+ [Political Science Causal Analysis](https://github.com/LeilaMNaim/github.io/blob/main/PT%20A%20AND%20B%20POLS%20Essay%202023%20FINAL%20.docx)
