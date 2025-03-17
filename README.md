@@ -6,7 +6,7 @@ I'm Leila, I'm a data scientist who's passionate about epidemiology and infectio
 #### Public Health and Epidemiology with R
 [Dissertation Final, TB CXR Pathology in Peru](https://github.com/LeilaMNaim/github.io/blob/main/DISSERTATION%20FINAL%20%20.docx)
 
-[USAID End Malaria ITN Efficacy, Morbidity and Mortality Analysis](https://github.com/LeilaMNaim/github.io/blob/main/DRC%20ANALYSIS-%20Mortality%20and%20Morbidity%20by%20ITN%20Type.xlsx)
+[USAID End Malaria ITN Efficacy, Morbidity and Mortality Analysis](https://github.com/LeilaMNaim/portoflio/blob/main/MORBIDITY%20AND%20MORTALITY%20ANALYSIS%20BRIEF.pdf)
 
 [British National Surveys of Sexual Attitudes and Lifestyle Analysis](https://github.com/LeilaMNaim/github.io/blob/main/POLS%20EXAM.pdf)
 
